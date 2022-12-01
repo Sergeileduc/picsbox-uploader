@@ -1,0 +1,4 @@
+Click>=7.0
+click_help_colors
+filetype
+mechanicalsoup
